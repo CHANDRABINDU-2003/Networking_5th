@@ -1,0 +1,7 @@
+Develop a multicast chatting tool that will be used to communicate among a group of
+processes. Each process should be able to send and receive any number of messages. The
+chat tool should have the following functionalities:
+1) Get the message from the user and send it to all the other processes belonging to
+the group. A process can receive a copy of the message.
+2) Read the messages sent by any other process and display the message to the user.
+

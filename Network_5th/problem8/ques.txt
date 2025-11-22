@@ -1,0 +1,7 @@
+Develop an election vote casting application as follows: There are two candidates A and B
+contesting an election. There are five electorates (processes) and each electorate can cast their
+vote only once and for only one of the two candidates (A or B). The vote cast by an electorate
+is a character ‘A’ or ‘B’, sent as a multicast message to all the other electorates. The winner
+is the candidate who gets the maximum number of votes. After casting the vote and also
+receiving the vote messages from all other electorates, each electorate should be able to
+independently determine the winner and display it.

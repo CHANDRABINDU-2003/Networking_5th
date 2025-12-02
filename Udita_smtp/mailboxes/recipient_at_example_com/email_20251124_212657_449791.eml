@@ -1,0 +1,18 @@
+Content-Type: multipart/mixed; boundary="===============1569384293880766609=="
+MIME-Version: 1.0
+From: sender@example.com
+To: recipient@example.com
+Subject: Test Email
+Date: Mon, 24 Nov 2025 21:26:57 
+
+--===============1569384293880766609==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+This is a test email from SMTP Lab.
+
+Best regards
+--===============1569384293880766609==--

@@ -1,0 +1,19 @@
+Content-Type: multipart/mixed; boundary="===============4233660310872024886=="
+MIME-Version: 1.0
+From: newsletter@company.com
+To: alice@example.com
+Subject: Weekly Newsletter - Week 47
+Date: Mon, 24 Nov 2025 21:14:39 
+
+--===============4233660310872024886==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Alice,
+
+Here is your weekly newsletter with the latest updates...
+
+Best regards,
+Newsletter Team
+--===============4233660310872024886==--

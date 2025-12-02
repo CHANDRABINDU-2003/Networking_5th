@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2025-11-25T12:57:57.442927",
+    "sender": "invalidsender",
+    "recipients": [
+      "test@example.com"
+    ],
+    "subject": "Test",
+    "reason": "Invalid sender email: invalidsender (missing or invalid format)"
+  },
+  {
+    "timestamp": "2025-11-25T12:57:57.443304",
+    "sender": "invalidsender",
+    "recipients": [
+      "test@example.com"
+    ],
+    "subject": "Test",
+    "reason": "Invalid sender email: invalidsender (missing or invalid format)"
+  },
+  {
+    "timestamp": "2025-11-25T12:57:57.443404",
+    "sender": "sender@example.com",
+    "recipients": [
+      "invalidrecipient"
+    ],
+    "subject": "Test",
+    "reason": "Invalid recipient email: invalidrecipient (missing or invalid format)"
+  },
+  {
+    "timestamp": "2025-11-25T12:57:57.443521",
+    "sender": "sender@example.com",
+    "recipients": [
+      "invalidrecipient"
+    ],
+    "subject": "Test",
+    "reason": "Invalid recipient email: invalidrecipient (missing or invalid format)"
+  },
+  {
+    "timestamp": "2025-11-25T12:58:43.897361",
+    "sender": "test1@example.com",
+    "recipients": [
+      "recipient1@example.com"
+    ],
+    "subject": "Subject 1",
+    "reason": "Test reason 1"
+  },
+  {
+    "timestamp": "2025-11-25T12:58:43.897676",
+    "sender": "test2@example.com",
+    "recipients": [
+      "recipient2@example.com"
+    ],
+    "subject": "Subject 2",
+    "reason": "Test reason 2"
+  },
+  {
+    "timestamp": "2025-11-25T13:02:10.974238",
+    "sender": "sender@example.com",
+    "recipients": [
+      "recipient.com"
+    ],
+    "subject": "Test Email",
+    "reason": "Invalid recipient email: recipient.com (missing or invalid format)"
+  },
+  {
+    "timestamp": "2025-11-25T13:02:10.975095",
+    "sender": "sender@example.com",
+    "recipients": [
+      "recipient.com"
+    ],
+    "subject": "Test Email",
+    "reason": "Invalid recipient email: recipient.com (missing or invalid format)"
+  },
+  {
+    "timestamp": "2025-11-25T19:27:32.294436",
+    "sender": "sender@example.com",
+    "recipients": [
+      "recipient.com"
+    ],
+    "subject": "Test Email",
+    "reason": "Invalid recipient email: recipient.com (missing or invalid format)"
+  },
+  {
+    "timestamp": "2025-11-25T19:27:32.295570",
+    "sender": "sender@example.com",
+    "recipients": [
+      "recipient.com"
+    ],
+    "subject": "Test Email",
+    "reason": "Invalid recipient email: recipient.com (missing or invalid format)"
+  }
+]

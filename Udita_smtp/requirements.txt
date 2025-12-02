@@ -1,0 +1,10 @@
+# SMTP Lab Requirements
+# Cross-platform compatible (Windows, Mac, Linux)
+# Python version required: 3.7 or higher
+
+# Required package for SMTP server
+aiosmtpd>=1.4.4
+
+# Note: tkinter is included with Python on most platforms
+# On Mac: comes with Python
+# On Linux: install python3-tk if needed (sudo apt-get install python3-tk)

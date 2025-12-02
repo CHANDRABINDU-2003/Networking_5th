@@ -1,0 +1,14 @@
+Content-Type: multipart/mixed; boundary="===============5003929031260065233=="
+MIME-Version: 1.0
+From: sender@example.com
+To: bob@example.com
+Subject: Test Email
+Date: Tue, 25 Nov 2025 09:58:02 
+
+--===============5003929031260065233==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+hjfwdjyfwdfcvxfjyfcxw
+--===============5003929031260065233==--

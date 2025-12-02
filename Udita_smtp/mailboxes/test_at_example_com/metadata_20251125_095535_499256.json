@@ -1,0 +1,7 @@
+{
+    "timestamp": "2025-11-25T09:55:35.499560",
+    "from": "sender@example.com",
+    "to": "test@example.com",
+    "subject": "Test Email",
+    "filename": "email_20251125_095535_499256.eml"
+}
